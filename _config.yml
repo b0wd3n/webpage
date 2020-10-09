@@ -22,7 +22,7 @@ author:
   avatar: /assets/img/icon. # change with your own avatar
 
 # URL settings
-url: "https://b0wd3n.github.io #
+url: "https://b0wd3n.github.io" #
 baseurl: /webpage
 permalink: /:title/
 google_analytics: # leave it blank if not wish
